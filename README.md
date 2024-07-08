@@ -6,7 +6,7 @@ Visit [SAASgames](https://github.com/abhinandhp/saas_games) for full project.
 
 ## Features
 - **Flutter and Dart:** Developed using Flutter framework and Dart programming language.
-- **Game Mechanics:** Includes a dynamic gameplay where the player controls a dinosaur running through obstacles.
+- **Game Mechanics:** Includes a dynamic gameplay where the player controls a dinosaur running through obstacles(Cacti).
 - **Score Tracking:** Tracks and displays the player's score based on distance covered.
 - **Responsive UI:** Designed with a responsive user interface to adapt to different screen sizes.
 
@@ -35,11 +35,6 @@ Ensure you have the following installed:
 - **Flutter:** For installation instructions, visit [Flutter installation guide](https://flutter.dev/docs/get-started/install)
 - **Dart:** For installation instructions, visit [Dart installation guide](https://dart.dev/get-dart)
 
-## Team Members
-- [Arjun](https://github.com/iamAJR)
-- [Abhinandh](https://github.com/abhinandhp)
-- [Shifana](https://github.com/ShifanaSShfk)
-- [Sidharth](https://github.com/sidharth2424)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
