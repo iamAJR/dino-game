@@ -14,7 +14,7 @@ List<Sprite> CACTI = [
     ..imageHeight = 100,
   Sprite()
     ..imagePath = "assets_a/image_a/cacti_a/cacti_large_2.png"
-    ..imageWidth = 98
+    ..imageWidth = 99
     ..imageHeight = 100,
   Sprite()
     ..imagePath = "assets_a/image_a/cacti_a/cacti_small_1.png"
