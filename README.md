@@ -1,16 +1,46 @@
-# flutter_dino
+# Dino Run Game
 
-A new Flutter project.
+## Overview
+Dino Run Game is a mobile game developed using Flutter and Dart for a hackathon organized by CSEA (Computer Science Association). It is part of a larger mobile app featuring various games, created by our 4-member team.
+Visit [SAASgames](https://github.com/abhinandhp/saas_games) for full project.
+
+## Features
+- **Flutter and Dart:** Developed using Flutter framework and Dart programming language.
+- **Game Mechanics:** Includes a dynamic gameplay where the player controls a dinosaur running through obstacles.
+- **Score Tracking:** Tracks and displays the player's score based on distance covered.
+- **Responsive UI:** Designed with a responsive user interface to adapt to different screen sizes.
 
 ## Getting Started
+To run the game locally, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/iamAJR/dino-game.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd dino-game
+   ```
+3. Run the game on an emulator or physical device using Flutter:
+   ```bash
+   flutter run
+   ```
 
-This project is a starting point for a Flutter application.
+## Interface 
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/iamAJR/dino-game/assets/115625957/a346e702-2122-41c2-a1a0-e5abce1905e3)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependencies
+Ensure you have the following installed:
+- **Flutter:** For installation instructions, visit [Flutter installation guide](https://flutter.dev/docs/get-started/install)
+- **Dart:** For installation instructions, visit [Dart installation guide](https://dart.dev/get-dart)
+
+## Team Members
+- [Arjun](https://github.com/iamAJR)
+- [Abhinandh](https://github.com/abhinandhp)
+- [Shifana](https://github.com/ShifanaSShfk)
+- [Sidharth](https://github.com/sidharth2424)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
